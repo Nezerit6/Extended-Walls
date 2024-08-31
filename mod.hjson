@@ -1,23 +1,15 @@
-#the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Extended Walls"
 
-#the internal name of your mod
-name: "example-java-mod"
+name: "extended-walls"
 
-#your name
-author: "You"
+author: "Nezerit6"
 
-#the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "extwalls.ExtendedWallsMod"
 
-#the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "Adds new wall sizes to Serpulo! All existing types now include 3x3 and 4x4 variants. Erekir will be added later."
 
-#the mod version
-version: 1.0
+version: 0.1
 
-#the minimum game build required to run this mod
 minGameVersion: 145
 
-#this is a java mod
 java: true
