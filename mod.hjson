@@ -6,10 +6,9 @@ author: "Nezerit6"
 
 main: "extwalls.ExtendedWallsMod"
 
-description: "Adds new wall sizes to Serpulo! All existing types now include 3x3 and 4x4 variants. Erekir will be added later."
-
+description: "Adds new wall sizes to both Serpulo and Erekir! All existing wall types now include 3x3 (Huge) and 4x4 (Gigantic) variants"
 version: 0.1
 
-minGameVersion: 145
+minGameVersion: 146
 
 java: true

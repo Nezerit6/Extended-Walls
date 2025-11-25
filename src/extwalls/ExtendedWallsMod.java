@@ -1,6 +1,7 @@
 package extwalls;
 
 import extwalls.content.EWBlocks;
+import extwalls.content.EWErekirTechTree;
 import extwalls.content.EWSerpuloTechTree;
 import mindustry.mod.*;
 
@@ -10,5 +11,6 @@ public class ExtendedWallsMod extends Mod{
     public void loadContent(){
         EWBlocks.load();
         EWSerpuloTechTree.load();
+        EWErekirTechTree.load();
     }
 }
