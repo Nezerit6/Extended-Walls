@@ -205,7 +205,7 @@ public class EWBlocks {
             size = 4;
         }};
 
-        phaseWallHugeErekir = new ShieldWall("phase-wall-huge-erekir"){{
+        /*phaseWallHugeErekir = new ShieldWall("phase-wall-huge-erekir"){{
             requirements(Category.defense, ItemStack.mult(Blocks.phaseWall.requirements, 9));
             health = 150 * 36;
             size = 3;
@@ -239,6 +239,6 @@ public class EWBlocks {
             conductivePower = true;
 
             consumePower(3f / 60f * 16);
-        }};
+        }};*/
     }
 }

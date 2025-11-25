@@ -33,12 +33,6 @@ public class EWErekirTechTree {
                 node(EWBlocks.carbideWallGigantic);
             });
         });
-
-        margeNode(Blocks.phaseWallLarge, () -> {
-            node(EWBlocks.phaseWallHugeErekir, () -> {
-                node(EWBlocks.phaseWallGiganticErekir);
-            });
-        });
     }
 
     private static void margeNode(UnlockableContent parent, Runnable children) {
